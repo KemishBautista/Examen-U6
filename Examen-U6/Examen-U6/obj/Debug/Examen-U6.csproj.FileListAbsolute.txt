@@ -1,0 +1,7 @@
+C:\Users\kemba\OneDrive - tec tijuana\Segundo Semestre\Examen-U6\Examen-U6\Examen-U6\bin\Debug\Examen-U6.exe.config
+C:\Users\kemba\OneDrive - tec tijuana\Segundo Semestre\Examen-U6\Examen-U6\Examen-U6\bin\Debug\Examen-U6.exe
+C:\Users\kemba\OneDrive - tec tijuana\Segundo Semestre\Examen-U6\Examen-U6\Examen-U6\bin\Debug\Examen-U6.pdb
+C:\Users\kemba\OneDrive - tec tijuana\Segundo Semestre\Examen-U6\Examen-U6\Examen-U6\obj\Debug\Examen-U6.csproj.AssemblyReference.cache
+C:\Users\kemba\OneDrive - tec tijuana\Segundo Semestre\Examen-U6\Examen-U6\Examen-U6\obj\Debug\Examen-U6.csproj.CoreCompileInputs.cache
+C:\Users\kemba\OneDrive - tec tijuana\Segundo Semestre\Examen-U6\Examen-U6\Examen-U6\obj\Debug\Examen-U6.exe
+C:\Users\kemba\OneDrive - tec tijuana\Segundo Semestre\Examen-U6\Examen-U6\Examen-U6\obj\Debug\Examen-U6.pdb
